@@ -9,3 +9,4 @@ betty in my first directory
 number ten
 number 14
 symbolic
+delete betty
