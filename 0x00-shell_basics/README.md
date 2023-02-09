@@ -5,3 +5,4 @@ the long format
 show hidden files in long format
 user id and group id
 directory inside directory
+betty in my first directory
