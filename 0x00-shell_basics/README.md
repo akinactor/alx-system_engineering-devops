@@ -13,3 +13,4 @@ delete betty
 directory deletion
 eleven
 file type
+symbolic link
