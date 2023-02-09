@@ -8,3 +8,4 @@ directory inside directory
 betty in my first directory
 number ten
 number 14
+symbolic
