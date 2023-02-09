@@ -16,3 +16,4 @@ file type
 symbolic link
 upper move
 clean
+tree
