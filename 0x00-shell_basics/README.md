@@ -12,3 +12,4 @@ symbolic
 delete betty
 directory deletion
 eleven
+file type
