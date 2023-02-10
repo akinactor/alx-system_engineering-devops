@@ -14,3 +14,4 @@ directories permission
 change
 number twelve
 change owner and group
+symbolic
