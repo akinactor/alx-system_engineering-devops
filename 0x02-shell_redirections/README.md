@@ -7,3 +7,4 @@ first ten lines
 line three
 two odd file
 cwd state
+duplicate last line
