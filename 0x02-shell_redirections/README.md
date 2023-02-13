@@ -6,3 +6,4 @@ ten tails
 first ten lines
 line three
 two odd file
+cwd state
