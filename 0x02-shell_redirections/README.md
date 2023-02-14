@@ -12,3 +12,4 @@ js files deleted
 thirteen unique
 find root
 wc
+hide
