@@ -11,3 +11,4 @@ duplicate last line
 js files deleted
 thirteen unique
 find root
+wc
