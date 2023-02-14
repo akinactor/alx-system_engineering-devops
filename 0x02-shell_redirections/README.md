@@ -10,3 +10,4 @@ cwd state
 duplicate last line
 js files deleted
 thirteen unique
+find root
