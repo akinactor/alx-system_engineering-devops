@@ -10,3 +10,4 @@ knowledge
 divided
 exponent
 binary
+twelve
