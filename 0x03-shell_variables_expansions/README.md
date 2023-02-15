@@ -8,3 +8,4 @@ best school
 global
 knowledge
 divided
+exponent
