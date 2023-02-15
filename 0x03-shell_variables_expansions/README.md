@@ -2,3 +2,4 @@ non empty readme file
 hello user
 path action
 find
+print env
