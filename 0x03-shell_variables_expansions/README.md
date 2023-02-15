@@ -5,3 +5,4 @@ find
 print env
 local
 best school
+global
