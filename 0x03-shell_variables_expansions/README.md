@@ -9,3 +9,4 @@ global
 knowledge
 divided
 exponent
+binary
