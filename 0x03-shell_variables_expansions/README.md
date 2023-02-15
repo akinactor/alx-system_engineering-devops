@@ -7,3 +7,4 @@ local
 best school
 global
 knowledge
+divided
