@@ -14,3 +14,4 @@ twelve
 float
 hexa
 reader
+paste
