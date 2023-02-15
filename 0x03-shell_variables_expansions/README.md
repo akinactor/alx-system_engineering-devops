@@ -11,3 +11,4 @@ divided
 exponent
 binary
 twelve
+float
