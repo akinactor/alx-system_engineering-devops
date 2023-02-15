@@ -12,3 +12,4 @@ exponent
 binary
 twelve
 float
+hexa
