@@ -6,3 +6,4 @@ print env
 local
 best school
 global
+knowledge
