@@ -15,3 +15,4 @@ wc
 hide
 letters only
 replacement
+11 directories
